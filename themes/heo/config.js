@@ -19,7 +19,7 @@ const CONFIG = {
 
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: 'https://www.ai-hd.com/article/b588d3d3-f64e-43fd-90bc-0e3baddcf3e2' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
