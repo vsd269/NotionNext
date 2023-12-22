@@ -10,17 +10,17 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_TITLE_1: '分享AIGC',
-  HEO_TITLE_2: '与实用技巧',
-  HEO_TITLE_3: 'Ai-HD.COM',
-  HEO_TITLE_4: '',
-  HEO_TITLE_5: '欢迎关注，交流学习',
-  HEO_TITLE_LINK: 'https://www.ai-hd.com/',
+  HEO_HERO_TITLE_1: '分享AIGC',
+  HEO_HERO_TITLE_2: '与实用技巧',
+  HEO_HERO_TITLE_3: 'Ai-HD.COM',
+  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_5: '欢迎关注，交流学习',
+  HEO_HERO_TITLE_LINK: 'https://www.ai-hd.com/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程', url: 'https://www.ai-hd.com/article/b588d3d3-f64e-43fd-90bc-0e3baddcf3e2' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
