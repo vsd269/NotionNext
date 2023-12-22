@@ -10,12 +10,12 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_TITLE_1: '分享AIGC',
-  HEO_TITLE_2: '与实用技巧',
-  HEO_TITLE_3: 'Ai-HD.COM',
-  HEO_TITLE_4: '新版上线',
-  HEO_TITLE_5: '欢迎关注，交流学习',
-  HEO_TITLE_LINK: 'https://www.ai-hd.com/',
+  HEO_HERO_TITLE_1: '分享AIGC',
+  HEO_HERO_TITLE_2: '与实用技巧',
+  HEO_HERO_TITLE_3: 'Ai-HD.COM',
+  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_5: '欢迎关注，交流学习',
+  HEO_HERO_TITLE_LINK: 'https://www.ai-hd.com/',
 
 
   // 英雄区显示三个置顶分类
