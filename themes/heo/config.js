@@ -13,7 +13,7 @@ const CONFIG = {
   HEO_TITLE_1: '分享AIGC',
   HEO_TITLE_2: '与实用技巧',
   HEO_TITLE_3: 'Ai-HD.COM',
-  HEO_TITLE_4: '新版上线',
+  HEO_TITLE_4: '',
   HEO_TITLE_5: '欢迎关注，交流学习',
   HEO_TITLE_LINK: 'https://www.ai-hd.com/',
 
