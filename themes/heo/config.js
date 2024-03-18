@@ -12,9 +12,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享AIGC',
   HEO_HERO_TITLE_2: '与实用技巧',
-  HEO_HERO_TITLE_3: 'Ai-HD.COM',
+  HEO_HERO_TITLE_3: 'ai-hd.com',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '点我进入Ai电影网站',
+  HEO_HERO_TITLE_5: 'Ai电影',
   HEO_HERO_TITLE_LINK: 'https://movie.ai-hd.com/',
 
   // 英雄区显示三个置顶分类
