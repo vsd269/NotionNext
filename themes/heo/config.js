@@ -14,8 +14,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与实用技巧',
   HEO_HERO_TITLE_3: 'Ai-HD.COM',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '欢迎关注，交流学习',
-  HEO_HERO_TITLE_LINK: 'https://www.ai-hd.com/',
+  HEO_HERO_TITLE_5: '点我进入Ai电影网站',
+  HEO_HERO_TITLE_LINK: 'https://movie.ai-hd.com/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: 'https://www.ai-hd.com/search/%E7%B2%BE%E9%80%89' },
