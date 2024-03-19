@@ -62,7 +62,7 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/poe-xin.webp',
       color_1: '#ffffff',
       title_2: 'heygen',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310172351906.webp',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/HeyGen-01.webp',
       color_2: '#ffffff'
     },
     {
