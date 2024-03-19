@@ -70,12 +70,12 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/leonardo-02.webp',
       color_1: '#ffffff',
       title_2: 'Eleven_Labs',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Eleven_Labs-touming.webp',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Eleven_Labs-2.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'midjourny',
-      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/midjourney_2.webp',
+      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/mj1.webp',
       color_1: '#ffffff',
       title_2: 'd-id',
       img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/d-id2kb.webp',
