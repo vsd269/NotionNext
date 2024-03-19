@@ -51,7 +51,7 @@ const CONFIG = {
     },
     {
       title_1: 'chatgpt',
-      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180001367.webp',
+      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/gpt4-01.webp',
       color_1: '#ffffff',
       title_2: 'Perplexity',
       img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sousuo-x1.webp',
