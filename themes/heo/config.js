@@ -78,8 +78,8 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/midjourney_2.webp',
       color_1: '#ffffff',
       title_2: 'd-id',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/d-id-1.webp',
-      color_2: '#ffffff'
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/d-idbaise.webp',
+      color_2: '#000000'
     },
     {
       title_1: 'runway',
