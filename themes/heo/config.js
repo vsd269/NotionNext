@@ -46,15 +46,15 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Topaz%20Photo%20AI.webp',
       color_1: '#9ca2fb',
       title_2: 'SD',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sd.webp',
-      color_2: '#ffffff'
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sd03-touming.webp',
+      color_2: '#300034'
     },
     {
       title_1: 'chatgpt',
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180001367.webp',
       color_1: '#ffffff',
       title_2: 'Perplexity',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Perplexity.webp',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/%E6%90%9C%E7%B4%A2-1.webp',
       color_2: '#ffffff'
     },
     {
@@ -70,7 +70,7 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180024344.webp',
       color_1: '#ffffff',
       title_2: 'Eleven_Labs',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/11.webp',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Eleven_Labs-touming.webp',
       color_2: '#ffffff'
     },
     {
