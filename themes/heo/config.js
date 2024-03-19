@@ -46,8 +46,8 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Topaz%20Photo%20AI.webp',
       color_1: '#9ca2fb',
       title_2: 'SD',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sd03-touming.webp',
-      color_2: '#300034'
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sd-001.webp',
+      color_2: '#320033'
     },
     {
       title_1: 'chatgpt',
