@@ -67,7 +67,7 @@ const CONFIG = {
     },
     {
       title_1: 'leonardo',
-      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180024344.webp',
+      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/leonardo-xin-gai.webp',
       color_1: '#ffffff',
       title_2: 'Eleven_Labs',
       img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Eleven_Labs-touming.webp',
