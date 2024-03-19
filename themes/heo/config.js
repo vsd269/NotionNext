@@ -45,21 +45,21 @@ const CONFIG = {
       title_1: 'Topaz Photo AI',
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Topaz%20Photo%20AI.webp',
       color_1: '#9ca2fb',
-      title_2: 'Gamma',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310182144601.webp',
+      title_2: 'SD',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sd.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'chatgpt',
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180001367.webp',
       color_1: '#ffffff',
-      title_2: 'Photoshop',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/ps_2.webp',
-      color_2: '#366fe0'
+      title_2: 'Perplexity',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/Perplexity.webp',
+      color_2: '#ffffff'
     },
     {
-      title_1: 'civitai',
-      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180005155.webp',
+      title_1: 'poe',
+      img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/poe-1.webp',
       color_1: '#ffffff',
       title_2: 'heygen',
       img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310172351906.webp',
@@ -69,16 +69,16 @@ const CONFIG = {
       title_1: 'leonardo',
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180024344.webp',
       color_1: '#ffffff',
-      title_2: 'Notion',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310182253168.webp',
+      title_2: 'Eleven_Labs',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/11.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'midjourny',
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/midjourney_2.webp',
       color_1: '#ffffff',
-      title_2: 'Wonder Studio',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310182317846.webp',
+      title_2: 'd-id',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/d-id-1.webp',
       color_2: '#ffffff'
     },
     {
