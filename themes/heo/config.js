@@ -54,7 +54,7 @@ const CONFIG = {
       img_1: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/202310180001367.webp',
       color_1: '#ffffff',
       title_2: 'Perplexity',
-      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/%E6%90%9C%E7%B4%A2-1.webp',
+      img_2: 'https://tupian1014-1251479570.cos.ap-shanghai.myqcloud.com/tupian/sousuo-3.webp',
       color_2: '#ffffff'
     },
     {
