@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.ai-hd.com/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.ai-hd.com/' }
+    { title: '欢迎来到我的博客', url: 'https://aihd.loc.cc/' },
+    { title: '访问文档中心获取更多帮助', url: 'https://aihd.loc.cc/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -20,17 +20,17 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享AIGC',
   HEO_HERO_TITLE_2: '与实用技巧',
-  HEO_HERO_TITLE_3: 'ai-hd.com',
+  HEO_HERO_TITLE_3: 'aihd.loc.cc',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: 'Ai电影',
-  HEO_HERO_TITLE_LINK: 'https://movie.ai-hd.com/',
+  HEO_HERO_TITLE_LINK: '/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: 'https://www.ai-hd.com/search/%E7%B2%BE%E9%80%89' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: 'https://aihd.loc.cc/search/%E7%B2%BE%E9%80%89' },
   HEO_HERO_CATEGORY_2: { title: '知识宝典', url: 'https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: 'https://www.ai-hd.com/category/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程', url: 'https://aihd.loc.cc/category/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://www.ai-hd.com/',
+  HEO_INFO_CARD_URL2: 'https://aihd.loc.cc/',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.ai-hd.com/',
+  HEO_INFO_CARD_URL3: 'https://aihd.loc.cc/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
